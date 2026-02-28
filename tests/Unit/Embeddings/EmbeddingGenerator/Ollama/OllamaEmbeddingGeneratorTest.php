@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Tests\Unit\Embeddings\EmbeddingGenerator\Ollama;
 
 use GuzzleHttp\Client as GuzzleClient;

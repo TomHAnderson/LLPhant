@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LLPhant\Chat\Anthropic;
 
 trait AnthropicTotalTokensTrait

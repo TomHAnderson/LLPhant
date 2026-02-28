@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace tests\Unit\Evaluation\Trajectory;
 
 use InvalidArgumentException;

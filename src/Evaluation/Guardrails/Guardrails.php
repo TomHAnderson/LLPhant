@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LLPhant\Evaluation\Guardrails;
 
 use LLPhant\Chat\ChatInterface;

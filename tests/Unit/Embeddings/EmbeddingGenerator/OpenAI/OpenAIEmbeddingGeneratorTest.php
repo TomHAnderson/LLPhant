@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Tests\Unit\Embedding\EmbeddingGenerator\OpenAI;
 
 use GuzzleHttp\Client;

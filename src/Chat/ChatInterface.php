@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LLPhant\Chat;
 
 use LLPhant\Chat\FunctionInfo\FunctionInfo;

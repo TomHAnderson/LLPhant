@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Tests\Unit\Chat\Vision;
 
 use LLPhant\Chat\Vision\ImageQuality;

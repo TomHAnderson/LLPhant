@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LLPhant\Embeddings\VectorStores\MongoDB;
 
 use LLPhant\Embeddings\Document;

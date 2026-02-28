@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LLPhant\Image;
 
 use LLPhant\Image\Enums\OpenAIImageStyle;

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 use LLPhant\Chat\ChatInterface;
 use LLPhant\Query\SemanticSearch\MultiQuery;
 

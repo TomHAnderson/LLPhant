@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LLPhant\Embeddings\DataReader;
 
 use LLPhant\Embeddings\Document;

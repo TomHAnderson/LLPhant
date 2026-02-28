@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 function fixture(string $name): array
 {
     $content = file_get_contents(__DIR__."/Fixtures/$name.json");

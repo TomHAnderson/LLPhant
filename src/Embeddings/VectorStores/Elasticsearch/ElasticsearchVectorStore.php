@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LLPhant\Embeddings\VectorStores\Elasticsearch;
 
 use Elastic\Elasticsearch\Client;

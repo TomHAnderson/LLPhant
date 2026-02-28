@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LLPhant\Query\SemanticSearch;
 
 class PipeTransformer implements QueryTransformer

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Tests\Integration\Embeddings\VectorStores\Doctrine\ODM\Document;
 
 use Doctrine\ODM\MongoDB\Mapping\Attribute as ODM;

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LLPhant\Query\SemanticSearch\Experimental;
 
 use LLPhant\Embeddings\Distances\CosineDistance;

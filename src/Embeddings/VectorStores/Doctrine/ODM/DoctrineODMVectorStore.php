@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LLPhant\Embeddings\VectorStores\Doctrine\ODM;
 
 use Doctrine\ODM\MongoDB\DocumentManager;

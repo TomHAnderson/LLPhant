@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace LLPhant\Embeddings\VectorStores\Doctrine;
 
 use Doctrine\ORM\Query\AST\Functions\FunctionNode;
